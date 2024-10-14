@@ -1,0 +1,4 @@
+[submodule "apps/backend"]
+	path = apps/backend
+	url = git@github.com:Lavish1999/backend-turbo.git
+	branch = master
