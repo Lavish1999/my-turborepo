@@ -19,8 +19,5 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ],
-  "dependencies": {
-    "backend": "git@github.com:Lavish1999/backend.git"
-  }
+  ]
 }
