@@ -1,0 +1,15 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+package-lock.json
+env.json
+env copy.json
+.env
+.env.local
+.env.development.local
+
+deploy.sh
